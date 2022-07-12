@@ -1,0 +1,3 @@
+In this video, we are going to create a Chatbot using Javascript only. We are going to use Web speech API for this. We are going to do two major things in this project:
+1. Convert speech to text using javascript.
+2. Get voice response from a bot in reply to the input.
